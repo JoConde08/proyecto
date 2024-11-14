@@ -1,15 +1,15 @@
 body{
     font-family: Arial, sans-serif;
-    background-color:rgb(254, 255, 255);
-    color: rgb(24, 24, 24);
+    background-color:rgb(245, 173, 200);
+    color: rgb(0, 0, 0);
 }
 header{
-background-color:rgb(254, 255, 255);
-color:rgb(214, 63, 63);
+background-color:rgb(235, 118, 186);
+color:rgb(231, 34, 172);
 padding: 20px;
 text-align: center;
 }
-nav{background-color: rgb(114, 236, 220);
+nav{background-color:rgb(245, 173, 200);
 padding: 10px;
 }
 nav ul{
@@ -29,10 +29,10 @@ main{
     padding: 25px;
 }
 h1, h2 {
-    color:rgb(214, 63, 63)
+    color:rgb(0, 0, 0)
 }
 span {
-    color:rgb(214, 63, 63)
+    color:rgb(0, 0, 0)
 }
 table {
     width: 100%;
@@ -47,7 +47,7 @@ th, td {
     text-align: left;
 }
 th {
-    background-color: aquamarine;
+    background-color: rgb(235, 118, 186);
 }
 img {
     width: 400px;
@@ -55,10 +55,8 @@ img {
     margin: 20px 0;
     display: block;
 }
-footer a {
+footer{
 color: black;
-text-decoration: none;
-}
-footer a:hover {
-    text-decoration: underline;
+background-color: rgb(235, 118, 186);
+text-decoration: underline;
 }
